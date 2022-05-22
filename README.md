@@ -1,7 +1,8 @@
-## Olá, console.log(☕); 
+# Olá, console.log(☕); 
 
 <p align="center">
-🍄 Sou o Kelvin, autodidata com interesse em Desenvolvimento Front-End e 🌟entusiasta🌟 em aprender <b>novas</b> habilidades, ao mesmo tempo que aperfeiçoo as que já <i>possuo</i>. A <i>maior</i> parte do meu tempo é gasta em <s>café</s> <b>estudos</b>.</p>
+🍄 Sou o Kelvin, um autodidata com interesse em Desenvolvimento Front-End + Segurança e 🌟entusiasta🌟 em aprender <b>novas</b> habilidades, ao mesmo tempo que aperfeiçoo as que já <i>possuo</i>. A <i>maior</i> parte do meu tempo é gasta em <s>café</s> <b>estudos</b>. Desde novo, sempre fui apaixonado à quaisquer campos relacionados à TI, começando com tarefas mais simples até conceitos mais avançados, o que me fez me aventurar e começar a montar alguns computadores junto ao meu tio. Ainda mais novo, conheci as primeiras linhas de código utilizando python, separava e lia relatos de bug bountys por <b>horas e mais horas</b>, basicamente, me dividia entre 🎮 games, 👨‍💻 tecnologia e 🌞 praia. <s>(café,não esquece)</s> </p>
+<p align="center"> Trabalhei numa empresa de turismo durante esse tempo, que me ensinou o quanto posso e devo aprender de outras pessoas. Estagiei no Fórum, aonde entendi como processos montam uma estrutura estável em nosso ritmo e cursei, por 2 anos e meio, Arquitetura e Urbanismo, que me mostrou o quanto construímos ao nos iterarmos à outras pessoas. Creio que esse é só o começo para tudo o que me reserva em TI, afinal, <b>a inovação é a sustentabilidade do ser, a aperfeiçoamento é a estabilidade</b>.</p>
 <p align="center">
 ✖
 </p>
